@@ -13,7 +13,11 @@ The purpose of this showcase is to visualise a summary of the sample data of Pix
 ## Preview
 
 ![Pixar Showcase](https://github.com/bishophim/PowerBI-Portfolio/blob/353eed222891f459887d78e09c34354cea53f575/images/PIXAR%20Showcase.png)
-
+<p float="left">
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/5e229cce98a4fa7d4ada12dc9533037129ab14b3/images/PIXAR%20Showcase%20(2).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/5e229cce98a4fa7d4ada12dc9533037129ab14b3/images/PIXAR%20Showcase%20(3).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/353eed222891f459887d78e09c34354cea53f575/images/PIXAR%20Showcase.png" width="200" />
+</p>
 
 
 
