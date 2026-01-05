@@ -7,7 +7,8 @@ Each project is built from csv datasets containing thousands of records, involvi
 ---
 - [<ins><b>© 2025 Him Bishop. All Rights Reserved.</b></ins>](https://github.com/bishophim/PowerBI-Portfolio/)
 ---
-## [Project 1: Pixar Showcase](https://app.powerbi.com/view?r=eyJrIjoiZmY1ZjUzYjgtMzRmNS00YzA5LWE2NDctYTIwMDgyNzIyZjA1IiwidCI6IjcxNWNlYjVmLTk4YzgtNDkxMy04YjVhLWUxMjE4NjE1YTgxYyJ9)
+
+## [Pixar Showcase](https://app.powerbi.com/view?r=eyJrIjoiZmY1ZjUzYjgtMzRmNS00YzA5LWE2NDctYTIwMDgyNzIyZjA1IiwidCI6IjcxNWNlYjVmLTk4YzgtNDkxMy04YjVhLWUxMjE4NjE1YTgxYyJ9)
 
 The purpose of this showcase is to visualise a summary of the sample data of Pixar films from 1995 to 2024. Compared to a traditional dashboard, an interactive rewind function stands its influence, which gives the audience a much more joyful experience while reading the data, can also be a chance to promote/ recall certain content. In this showcase, the rewind function is aimed at being used in conferences and other situations to promote Pixar films. Bringing films' screenshots/trailers/ characters/ history lines to the audience shall effectively increase the audience interest, which should be a potential method to target multiple audiences. Moreover, an interactive dashboard, as always, highlights the important indicators like revenue/ profit/ trend/ score etc. Users can easily find insights or trends based on what they are looking for.
 ## Preview
@@ -20,6 +21,22 @@ The purpose of this showcase is to visualise a summary of the sample data of Pix
 </p>
 
 
+---
+
+## [FP20 Analytics ZoomCharts Challenge 33](https://app.powerbi.com/view?r=eyJrIjoiYTg0NmE1ZTUtYmU4NS00MDUzLThlNGQtODQyMzQ4ZmVjN2VlIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+In this challenge, the effective use of ZoomCharts visuals is key to standing out beyond basic elements and surface-level insights. Surely accurate data interpretation is essential, it is equally important to understand the target audience and establish credibility to persuade decision-makers. This showcase is aimed as a post-campaign review report, analysing the promotion period to identify the most profitable opportunities by balancing wins and losses, while also uncovering hidden issues related to delivery performance and delays.
+
+## Preview
+
+![Pixar Showcase](https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(1).png)
+<p float="left">
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(3).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(2).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(1).png" width="200" />
+</p>
+
+---
 
 
 ## Contact Information
