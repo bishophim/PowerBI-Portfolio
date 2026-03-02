@@ -44,10 +44,11 @@ This project analyses a dataset representing a European pharmacy chain distribut
 
 ## Preview
 
-![DataDNA_20260102](https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(1).png)
+![DataDNA_20260102](https://github.com/bishophim/PowerBI-Portfolio/blob/9ebbc4e7473df6d3b1d264dcd7d899f37aaae92a/images/DataDNA.gif)
 <p float="left">
-  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(3).png" width="200" />
-  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/d98ca99acee3201f2e777938b2c79ffbcb49b0e3/images/FP20%20(2).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/9ebbc4e7473df6d3b1d264dcd7d899f37aaae92a/images/DataDNA%20(1).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/9ebbc4e7473df6d3b1d264dcd7d899f37aaae92a/images/DataDNA%20(2).png" width="200" />
+  <img src="https://github.com/bishophim/PowerBI-Portfolio/blob/9ebbc4e7473df6d3b1d264dcd7d899f37aaae92a/images/DataDNA%20(3).png" width="200" />
 </p>
 
 ---
